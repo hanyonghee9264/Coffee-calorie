@@ -13,7 +13,7 @@ bs4==0.0.1
 cached-property==1.5.1
 celery==4.3.0
 cement==2.8.2
-certifi==2018.11.29
+certifi==2022.12.7
 chardet==3.0.4
 cheerio==1.4
 chromedriver-install==0.3
